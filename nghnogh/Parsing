@@ -1,0 +1,3 @@
+1) / >> Joinx with indexes if found serve if not check auto index else 403
+
+2) /PATH03/ find closest  match of location, check if location has index pages if ound serve, else check auto index else 403

@@ -1,0 +1,12 @@
+Content-type:text/html
+
+
+<html>
+<head>
+<title>Hello - Second CGI Program</title>
+</head>
+<body>
+<h2>Hello fibonachi  </h2>
+environ({'GATEWAY_INTERFACE': 'CGI/1.1', 'SERVER_SOFTWARE': 'webserv', 'SERVER_PROTOCOL': 'HTTP/1.1', 'SERVER_PORT': '8089', 'REQUEST_METHOD': 'GET', 'PATH_INFO': 'cgi-test/script.py', 'QUERY_STRING': 'empty=1&name=5', 'SCRIPT_NAME': 'script.py', 'CONTENT_TYPE': '', 'CONTENT_LENGTH': '', 'HTTP_USER_AGENT': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36', '__CF_USER_TEXT_ENCODING': '0x52C:0x0:0x0', 'LC_CTYPE': 'UTF-8'})
+</body>
+</html>
